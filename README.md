@@ -22,6 +22,11 @@ export REPO_URL='https://mirrors.tuna.tsinghua.edu.cn/git/git-repo/'
 
 ｝
 
+参考：
+1. Manifest和Repo使用详解 https://cloud.tencent.com/info/7c879cfb83fd469fda1819f0ffa8ab17.html 
+2. 阅读imx6的yocto启动手册，下载yocto repo，阅读其repo中的manifest。
+
+
 实测：
 {
 mkdir repo_demo && cd repo_demo
